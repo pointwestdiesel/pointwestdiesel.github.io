@@ -1,0 +1,1 @@
+import{j as r}from"./index-DCVKiLat.js";import{P as s,a as o}from"./ProjectsGrid-CBrLtOJ3.js";const a=()=>r.jsx(s,{children:r.jsx("div",{className:"container mx-auto",children:r.jsx(o,{})})});export{a as default};
